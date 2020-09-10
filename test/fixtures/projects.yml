@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  budget: MyString
+  est_work_hours: MyString
+  completion_stage: MyString
+
+two:
+  name: MyString
+  budget: MyString
+  est_work_hours: MyString
+  completion_stage: MyString
